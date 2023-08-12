@@ -1,0 +1,15 @@
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\obj\Debug\net7.0\Delegates.csproj.AssemblyReference.cache
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\bin\Debug\net7.0\Delegates.exe
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\bin\Debug\net7.0\Delegates.deps.json
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\bin\Debug\net7.0\Delegates.dll
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\bin\Debug\net7.0\Delegates.pdb
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\obj\Debug\net7.0\Delegates.dll
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\obj\Debug\net7.0\Delegates.pdb
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+E:\MyProject\CSharpAdvancedTopic\Delegates\Delegates\obj\Debug\net7.0\ref\Delegates.dll
