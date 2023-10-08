@@ -1,0 +1,15 @@
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\bin\Debug\net7.0\LamdaExpression.exe
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\bin\Debug\net7.0\LamdaExpression.deps.json
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\bin\Debug\net7.0\LamdaExpression.runtimeconfig.json
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\bin\Debug\net7.0\LamdaExpression.dll
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\bin\Debug\net7.0\LamdaExpression.pdb
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.csproj.AssemblyReference.cache
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.AssemblyInfoInputs.cache
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.AssemblyInfo.cs
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.csproj.CoreCompileInputs.cache
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.dll
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\obj\Debug\net7.0\refint\LamdaExpression.dll
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.pdb
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\obj\Debug\net7.0\LamdaExpression.genruntimeconfig.cache
+E:\MyProject\CSharpAdvancedTopic\LamdaExpression\LamdaExpression\obj\Debug\net7.0\ref\LamdaExpression.dll

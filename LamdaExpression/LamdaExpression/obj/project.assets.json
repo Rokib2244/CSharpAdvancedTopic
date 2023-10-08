@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\CSharpAdvancedTopic\\Delegates\\Delegates\\Delegates.csproj",
-      "projectName": "Delegates",
-      "projectPath": "E:\\MyProject\\CSharpAdvancedTopic\\Delegates\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "E:\\MyProject\\CSharpAdvancedTopic\\LamdaExpression\\LamdaExpression\\LamdaExpression.csproj",
+      "projectName": "LamdaExpression",
+      "projectPath": "E:\\MyProject\\CSharpAdvancedTopic\\LamdaExpression\\LamdaExpression\\LamdaExpression.csproj",
       "packagesPath": "C:\\Users\\Laptop Click\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\CSharpAdvancedTopic\\Delegates\\Delegates\\obj\\",
+      "outputPath": "E:\\MyProject\\CSharpAdvancedTopic\\LamdaExpression\\LamdaExpression\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Laptop Click\\AppData\\Roaming\\NuGet\\NuGet.Config",
