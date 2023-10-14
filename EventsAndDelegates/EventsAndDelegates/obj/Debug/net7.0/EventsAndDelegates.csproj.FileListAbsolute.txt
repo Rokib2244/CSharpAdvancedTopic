@@ -1,0 +1,15 @@
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\bin\Debug\net7.0\EventsAndDelegates.exe
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\bin\Debug\net7.0\EventsAndDelegates.deps.json
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\bin\Debug\net7.0\EventsAndDelegates.runtimeconfig.json
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\bin\Debug\net7.0\EventsAndDelegates.dll
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\bin\Debug\net7.0\EventsAndDelegates.pdb
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.csproj.AssemblyReference.cache
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.AssemblyInfoInputs.cache
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.AssemblyInfo.cs
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.csproj.CoreCompileInputs.cache
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.dll
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\refint\EventsAndDelegates.dll
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.pdb
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\EventsAndDelegates.genruntimeconfig.cache
+E:\MyProject\CSharpAdvancedTopic\EventsAndDelegates\EventsAndDelegates\obj\Debug\net7.0\ref\EventsAndDelegates.dll
